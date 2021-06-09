@@ -13,7 +13,7 @@
 
 6. send image
 
-7. send text
+7. send text added
 
 
 
