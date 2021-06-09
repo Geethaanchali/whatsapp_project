@@ -11,6 +11,8 @@
 
 5. send contact
 
+6. send image
+
 
 
 
